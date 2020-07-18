@@ -34,6 +34,7 @@ sudo apt install tmux -y
 sudo apt install vim -y
 sudo apt update
 sudo apt upgrade -y
+sudo apt update && sudo apt install -y neofetch
 
 #Distro upgrade;
 sudo apt-get update && sudo apt full-upgrade -y
